@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Z3tch
-- 👀 I’m interested in ... Tech & CyberSecurity
+- 👀 I’m interested in ...Tech & CyberSecurity
 - 🌱 I’m currently learning ... Information Technology at a Local University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me ... Email: Mays.jacob.Scott@gmail.com
 
 <!---
 Z3tch/Z3tch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
