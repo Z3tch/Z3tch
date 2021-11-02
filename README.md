@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Z3tch
-- 👀 I’m interested in ...Tech & CyberSecurity
+- 👀 I’m interested in ...Technology & CyberSecurity
 - 🌱 I’m currently learning ... Information Technology at a Local University
 - 📫 How to reach me ... Email: Mays.jacob.Scott@gmail.com
 
